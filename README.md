@@ -1,6 +1,6 @@
 # RDK_vMMM
 
-### Random dot kinematogram (RDK) data analysis using a von Mises mixture model (vMMM)
+### Random dot kinematogram data analysis using a von Mises mixture model
 
 This code belongs to the paper "Psychophysics and computational modeling of feature-continuous motion perception" by Töpfer et al. (2022), currently under review at *Journal of Vision*. It consists of MATLAB scripts processing behavioral data, also available in this repository, and generating results and figures, as they appear in the paper.
 
